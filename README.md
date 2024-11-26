@@ -1,3 +1,7 @@
+<a target="_blank" href="https://colab.research.google.com/github/RudraKhunti/MultiModal_RAG/blob/main/Multimodal_RAG.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
+
 # Multimodal RAG Workflow
 
 This notebook implements a **Multimodal Retrieval-Augmented Generation (RAG)** pipeline, enabling integration of multiple input types (e.g., text and images) to enhance retrieval-based generation tasks. The workflow combines data retrieval, preprocessing, and model inference, potentially involving multimodal embeddings.
